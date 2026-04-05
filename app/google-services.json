@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "322809226005",
+    "project_id": "cybergah-8fe5f",
+    "storage_bucket": "cybergah-8fe5f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322809226005:android:bfc1593e338dd1eae8ff1c",
+        "android_client_info": {
+          "package_name": "com.cybergah.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZSMgAjHkkew672eHI-w2QfMRAx_MuOyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
