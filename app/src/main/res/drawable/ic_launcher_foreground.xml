@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Launcher ikonu foreground -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Kalkan ikonu, ortada -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,22L33,30.5v12.75c0,11.81 8.18,22.82 19.13,25.5 1.22,-0.3 2.41,-0.71 3.56,-1.21C44.75,64.33 37.5,55.11 37.5,43.25V33.87L54,26.68l16.5,7.19v9.38c0,11.86 -7.25,21.08 -18.19,24.29 1.15,0.5 2.34,0.91 3.56,1.21C66.82,66.07 75,55.06 75,43.25V30.5L54,22z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,38a4.25,4.25 0,0 0,-4.25,4.25v4.25a4.25,4.25 0,0 0,2.125,3.68V55.5h4.25v-5.32A4.25,4.25 0,0 0,58.25,46.5v-4.25A4.25,4.25 0,0 0,54,38z" />
+</vector>

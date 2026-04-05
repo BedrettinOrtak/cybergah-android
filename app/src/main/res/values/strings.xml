@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cybergah</string>
+
+    <!-- Hata Ekranı -->
+    <string name="no_connection">Bağlantı Yok</string>
+    <string name="no_connection_desc">İnternet bağlantınızı kontrol edip tekrar deneyin.</string>
+    <string name="retry">Tekrar Dene</string>
+
+    <!-- Bildirimler -->
+    <string name="channel_content">Yeni İçerikler</string>
+    <string name="channel_forum">Forum Bildirimleri</string>
+
+    <!-- Genel -->
+    <string name="loading">Yükleniyor…</string>
+    <string name="share">Paylaş</string>
+    <string name="download_started">İndirme başladı</string>
+    <string name="download_error">İndirme hatası</string>
+</resources>

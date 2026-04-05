@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Marka Renkleri -->
+    <color name="brand_red">#D0021B</color>
+    <color name="brand_red_dark">#B91C1C</color>
+    <color name="brand_red_light">#FEE2E2</color>
+
+    <!-- Arka Planlar -->
+    <color name="background">#F3F4F6</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="status_bar">#0F172A</color>
+
+    <!-- Metin -->
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#64748B</color>
+
+    <!-- Splash -->
+    <color name="splash_background">#0F172A</color>
+    <color name="splash_icon_background">#D0021B</color>
+
+    <!-- Bildirim -->
+    <color name="notification_color">#D0021B</color>
+</resources>
