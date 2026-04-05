@@ -353,10 +353,10 @@ class MainActivity : AppCompatActivity() {
         binding.webView.evaluateJavascript(js, null)
     }
 
-    override fun onNewIntent(intent: Intent?) {
+    override fun onNewIntent(intent: Intent) {
         super.onNewIntent(intent)
         // Deep link ile açılan URL'ler
-        intent?.data?.toString()?.let { url ->
+        intent.data?.toString()?.let { url ->
             if (url.contains("cybergah.com")) {
                 binding.webView.loadUrl(url)
             }
